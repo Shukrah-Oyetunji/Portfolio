@@ -6,7 +6,6 @@ import {
   ArrowDown,
   ArrowRight,
   ArrowUpRight,
-  BrainCircuit,
   Menu,
   Sparkles,
   X,
